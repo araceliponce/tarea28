@@ -28,14 +28,11 @@ import { CalculadoraComponent } from './calculadora/calculadora.component';
 @NgModule({
   declarations: [
     NavbarComponent,
-   
-    HomeComponent,
-   
+    HomeComponent,   
     ErrorComponent,
-    LoginComponent,
-   
+    LoginComponent,   
     NotfoundComponent,
-        CalculadoraComponent
+    CalculadoraComponent
   ],
   imports: [
     CommonModule,
