@@ -1,4 +1,4 @@
-!()[./src/assets/jest0.png]
+![](./src/assets/jest0.png)
 
 ```
 src/app/principal/navbar/navbar.component.spec.ts
