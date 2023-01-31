@@ -1,0 +1,2 @@
+- tsconfig.spec - copia .....usa jasmine asi que no cuenta
+- tsconfig.app - copia .....tampoco cuenta
