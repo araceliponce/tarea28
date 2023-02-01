@@ -21,7 +21,7 @@ import {matFormFieldAnimations, MatFormFieldModule} from '@angular/material/form
 import {MatInputModule} from '@angular/material/input';
 import {MatSlideToggleModule} from '@angular/material/slide-toggle';
 import { CalculadoraComponent } from './calculadora/calculadora.component';
-
+import { MatButtonToggleModule } from "@angular/material/button-toggle"; //+
 
 
 
@@ -47,7 +47,8 @@ import { CalculadoraComponent } from './calculadora/calculadora.component';
     MatListModule,
     MatFormFieldModule,
     MatInputModule,
-    MatSlideToggleModule
+    MatSlideToggleModule,
+    MatButtonToggleModule
     
     
   ],

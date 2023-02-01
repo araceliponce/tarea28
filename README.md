@@ -1,5 +1,7 @@
 ![](./src/assets/jest0.png)
 
+Fallos actuales:
+
 ```
 src/app/principal/navbar/navbar.component.spec.ts
 
