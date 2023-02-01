@@ -9,4 +9,5 @@ Demo: <https://araceliponce.github.io/tarea28/>
 - MARWIN WLADIMIR GARAY MONTOYA
 - JHYM STONY HUALLA MUÑOZ
 
-![](./src/assets/jest0.png)
+![](./src/assets/280.png)
+![](./src/assets/281.png)
