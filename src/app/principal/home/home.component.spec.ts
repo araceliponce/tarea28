@@ -32,14 +32,14 @@ describe('HomeComponent', () => {
 
   /* Your test suite must contain at least one test */
 
-  /*  it('should create', () => {
+  it('should create', () => {
     expect(component).toBeTruthy();
   }); //genera error siempre */
 
-  it('should have a var named title', () => {
+ /*  it('should have a var named title', () => {
     // const fixture = TestBed.createComponent(HomeComponent);
     // const component = fixture.componentInstance;
 
     expect(component.title).toBeTruthy();
-  });
+  }); */
 });

@@ -4,6 +4,7 @@ import { AutenticacionService } from 'src/app/services/autenticacion.service';
 
 import { LoginComponent } from './login.component';
 import { HttpClientTestingModule} from '@angular/common/http/testing' //+++++++
+import { RouterLink } from '@angular/router';
 
 //creamos un mock del service
 /* const mockAutenticacionService:{
@@ -21,12 +22,15 @@ describe('LoginComponent', () => {
       declarations: [ LoginComponent ],
       imports: [
         FormBuilder,
+        RouterLink,
+        FormBuilder,
+        AutenticacionService
 
         // AutenticacionService, 
         // HttpClientTestingModule //+++++++
       ],
       providers:[
-        AutenticacionService //+
+        // AutenticacionService //+
       ]
     })
     .compileComponents();
